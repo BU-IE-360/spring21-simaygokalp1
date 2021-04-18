@@ -1,5 +1,5 @@
 # Progress Journal
 
-## HW0
+## HW1
 
-[Here](files/GitHub.html) is the HW0 file.
+[Here](files/HW1.html) is my HW1 file.
