@@ -2,5 +2,5 @@
 
 ## HW1
 
-In HW1 we examine ...
+In HW1 I examine Currency Rates, Interest Rates, and Price Index and their trend on Google Trends Data. 
 [Here](files/HW1.html) is my HW1 file.
