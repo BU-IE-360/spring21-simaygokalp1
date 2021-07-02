@@ -18,4 +18,4 @@ In Project, we have predicted sales of nine products from Trendyol
 
 Our Project file is [Here](files/Project-Report.html)
 
-Our Project Codes are [Here](files/codes.zip)
+Our Project Codes are [Here](files/Codes.zip)
