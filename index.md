@@ -14,3 +14,8 @@ In HW3, I built a ARIMA model and decompose Electricity Consumption Data.
 
 MY HW3 file is [Here](files/HW3.html)
 
+In Project, we have predicted sales of nine products from Trendyol
+
+Our Project file is [Here](files/Project-Report.html)
+
+Our Project Codes are [Here](files/codes.zip)
